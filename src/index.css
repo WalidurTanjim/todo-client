@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+*{
+  font-family: "Poppins", serif;
+  font-style: normal;
+  box-sizing: border-box;
+}
+a, a:hover{
+  text-decoration: none;
+}
+li{
+  list-style: none;
+}
